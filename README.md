@@ -6,4 +6,13 @@ YouTube linklerinden video indirip belirlenen sayıda kareye (frame) bölen prat
 
 1. `requirements.txt` dosyasını kullanarak gerekli bağımlılıkları yükleyin:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txtScripti çalıştırın:
+
+Bash
+python frame_extractor.py
+YouTube linkini girin, program otomatik olarak extracted_frames klasörüne kareleri kaydedecektir.Özellikler
+Otomatik Kare Ayıklama: 800 kare hedefine göre videoyu otomatik böler.
+
+Düşük Depolama: İşlem sonrası video dosyasını otomatik siler.
+
+Hata Yönetimi: Ağ sorunlarına karşı dayanıklıdır.
