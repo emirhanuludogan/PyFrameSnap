@@ -14,6 +14,7 @@ YouTube linkini girin, program otomatik olarak extracted_frames klasörüne kare
 
 Özellikler
 Otomatik Kare Ayıklama: 800 kare hedefine göre videoyu otomatik böler.
+Esneklik sunmak için ilgili kod satırına frame lenecek uzunluğu girip boyutu arttırıp kısaltabilirsiniz
 
 Düşük Depolama: İşlem sonrası video dosyasını otomatik siler.
 
